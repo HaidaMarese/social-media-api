@@ -43,4 +43,6 @@ This project is a basic Node.js/Express app that connects to a MongoDB Atlas clu
 - node server.js
 
 ## Screenshot 
+<img width="1550" height="964" alt="image" src="https://github.com/user-attachments/assets/c3777e61-7aae-4441-9ed9-dc17f7e1f89b" />
+
 
